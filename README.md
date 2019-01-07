@@ -1,4 +1,4 @@
-# Data-Mining
+# Data Mining
 
 Data Mining/Machine Learning Algorithms using Python on Jupyter Notebook.
 
